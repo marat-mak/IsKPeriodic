@@ -13,4 +13,5 @@ int IsKPeriodic(string s)
 			return pat.size();
 		}
 	}
+	return -1;
 }
